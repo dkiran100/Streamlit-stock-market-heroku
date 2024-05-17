@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import yfinance as yf
-from tensorflow import keras
 from keras.models import load_model
 import streamlit as st
 import matplotlib.pyplot as plt
